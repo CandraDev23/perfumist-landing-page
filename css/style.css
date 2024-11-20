@@ -1,0 +1,251 @@
+@font-face {
+    font-family: "Noto Sans";
+    src: url('../fonts/NotoSans/NotoSans-Bold.ttf') format('truetype');
+    src: url('../fonts/NotoSans/NotoSans-SemiBold.ttf') format('truetype');
+    src: url('../fonts/NotoSans/NotoSans-Medium.ttf') format('truetype');
+    src: url('../font/NotoSans/NotoSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Kadwa";
+    src: url('../font/Kadwa/Kadwa-Bold.ttf') format('truetype');
+    src: url('../font/Kadwa/Kadwa-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Lora";
+    src: url('../fonts/Lora/Lora-Bold.ttf') format('truetype');
+    src: url('../fonts/Lora/Lora-SemiBold.ttf') format('truetype');
+    src: url('../fonts/Lora/Lora-Medium.ttf') format('truetype');
+    src: url('../font/Lora/Lora-Regular.ttf') format('truetype');
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Noto Sans", sans-serif;
+}
+
+.font-notosans {
+    font-family: "Noto Sans", sans-serif;
+}
+
+.font-kadwa {
+    font-family: "Kadwa", serif;
+}
+
+.font-lora {
+    font-family: "Lora", serif;
+}
+
+.text-blacksmooth {
+    color: #323232;
+}
+
+.section-1, .section-2, .section-3, .section-4, .section-5, .section-6 {
+    padding: 100px 90px;
+}
+
+.navbar-brand {
+    font-size: 28px;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: space-between;
+    width: 580px;
+}
+
+.cart-btn {
+    background-color: #323232;
+    color: #fff;
+    padding: 6px 15px;
+    border-radius: 36px;
+    border: none;
+    outline: none;
+}
+
+.cart-btn:hover {
+    background-color: transparent;
+    outline: #323232 solid 1px !important;
+    color: #323232;
+}
+
+.heading-banner-1 {
+    font-size: 72px;
+}
+
+.shop-btn {
+    background-color: #323232;
+    color: #fff;
+    padding: 10px 30px;
+    border-radius: 36px;
+    border: none;
+    outline: none
+}
+.shop-btn:hover {
+    background-color: transparent;
+    outline: #323232 solid 1px !important;
+    color: #323232;
+}
+
+.image-banner-1 {
+    width: 420px;
+}
+
+.text-feature {
+    font-size: 12px;
+}
+
+.buy-product-btn {
+    color: #323232;
+}
+
+.buy-product-btn:hover {
+    text-decoration: none;
+}
+
+.btn-change {
+    color: #323232;
+}
+
+.btn-change:hover {
+    text-decoration: none;
+}
+
+.image-newproduct {
+    border-radius: 14px;
+    width: 320px;
+    filter: drop-shadow(8px 8px 3px rgba(0, 0, 0, 0.25));
+}
+
+.text-newproduct {
+    color: #afafaf;
+    font-size: 14px;
+}
+
+.text-price-newproduct-prev, .text-price-newproduct-disc {
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.buy-newproduct {
+    border-radius: 36px;
+    padding: 8px 26px;
+    background-color: #323232;
+    color: #fff;
+    outline: none;
+    border: none;
+}
+.buy-newproduct:hover {
+    background-color: transparent;
+    outline: #323232 solid 1px !important;
+    color: #323232;
+}
+
+.card-review {
+    background-color: #fff;
+    border: 1.5px solid #323232;
+    border-radius: 12px;
+    padding: 18px;
+}
+
+.card-review.active {
+    background-color: #323232;
+}
+
+.photo-profile-customer {
+    width: 50px;
+    height: 50px;
+}
+
+.customer-name {
+    font-size: 16px;
+}
+
+.customer-job {
+    color: #7D7D7D;
+    font-size: 10px;
+}
+
+.customer-job.active {
+    color: #7D7D7D;
+    font-size: 10px;
+}
+
+.text-review {
+    font-size: 12px;
+}
+
+.hugo-boss {
+    width: 90px;
+  }
+  
+  .dior {
+    width: 110px;
+  }
+  
+  .gucci {
+    width: 54px;
+  }
+  
+  .chanel {
+    width: 70px;
+  }
+  
+  .ysl {
+    width: 50px;
+  }
+  
+  .zara {
+    width: 80px;
+  }
+  
+  .creed {
+    width: 90px;
+  }
+  
+  .tom {
+    width: 110px;
+  }
+  
+  .byredo {
+    width: 80px;
+  }
+  
+  .paris {
+    width: 50px;
+  }  
+
+.brands-section-1 {
+    width: 820px;
+    margin: 0 auto;
+}
+
+.item-list-footer {
+    font-size: 14px;
+}
+
+.btn-social-media {
+    background-color: #323232;
+    width: 40px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    color: white;
+}
+.btn-social-media:hover {
+    background-color: transparent;
+    outline: #323232 solid 1px !important;
+    color: #323232;
+}
+
+.btn-blacksmooth {
+    background-color: #323232;
+    color: #fff;
+}
+
+.btn-blacksmooth:hover {
+    outline: #323232 solid 1px;
+    color: #323232;
+}

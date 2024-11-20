@@ -1,0 +1,614 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+  .navbar-brand {
+    font-size: 26px;
+  }
+  .nav-navbar {
+    font-size: 14px;
+  }
+  .cart-btn {
+    font-size: 14px;
+  }
+  .heading-banner-1 {
+    font-size: 48px;
+  }
+  .text-banner-1 {
+    font-size: 14px;
+  }
+  .shop-btn {
+    font-size: 14px;
+  }
+  .image-banner-1 {
+    width: 360px;
+  }
+  .heading-feature {
+    font-size: 20px;
+  }
+  .text-feature {
+    font-size: 14px;
+  }
+  .section-1,
+  .section-2,
+  .section-3,
+  .section-4,
+  .section-5,
+  .section-6 {
+    padding: 84px 74px;
+  }
+  .heading-best-seller {
+    font-size: 20px;
+  }
+  .text-best-seller {
+    font-size: 14px;
+  }
+  .title-product {
+    font-size: 20px;
+  }
+  .text-price {
+    font-size: 14px;
+  }
+  .buy-product-btn {
+    font-size: 14px;
+  }
+  .title-newproduct {
+    font-size: 20px;
+  }
+  .text-newproduct {
+    font-size: 13px;
+  }
+  .paragraph-newproduct {
+    font-size: 14px;
+  }
+  .text-price-newproduct-prev {
+    font-size: 20px;
+  }
+  .text-price-newproduct-disc {
+    font-size: 20px;
+  }
+  .buy-newproduct {
+    font-size: 14px;
+  }
+  .title-review {
+    font-size: 20px;
+  }
+  .subtitle-review {
+    font-size: 14px;
+  }
+  .subtitle-partners {
+    font-size: 14px;
+  }
+  .text-review {
+    font-size: 10px;
+  }
+  .photo-profile-customer {
+    width: 46px;
+    height: 46px;
+  }
+  .title-partners {
+    font-size: 20px;
+  }
+  .brand-name-footer {
+    font-size: 28px;
+  }
+  .desc-brand-name {
+    font-size: 12px;
+  }
+  .title-list-nav {
+    font-size: 18px;
+  }
+  .item-list-footer {
+    font-size: 14px;
+  }
+  .btn-social-media {
+    width: 32px;
+    height: 32px;
+    font-size: 14px;
+  }
+  .copyright {
+    font-size: 12px;
+  }
+  .image-newproduct {
+    width: 300px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .navbar-brand {
+    font-size: 26px;
+  }
+  .nav-navbar {
+    font-size: 14px;
+  }
+  .cart-btn {
+    font-size: 14px;
+  }
+  .heading-banner-1 {
+    font-size: 42px;
+  }
+  .text-banner-1 {
+    font-size: 14px;
+  }
+  .shop-btn {
+    font-size: 14px;
+  }
+  .image-banner-1 {
+    width: 320px;
+  }
+  .heading-feature {
+    font-size: 18px;
+  }
+  .text-feature {
+    font-size: 14px;
+  }
+  .section-1,
+  .section-2,
+  .section-3,
+  .section-4,
+  .section-5,
+  .section-6 {
+    padding: 72px 60px;
+  }
+  .heading-best-seller {
+    font-size: 18px;
+  }
+  .text-best-seller {
+    font-size: 14px;
+  }
+  .title-product {
+    font-size: 18px;
+  }
+  .text-price {
+    font-size: 14px;
+  }
+  .buy-product-btn {
+    font-size: 14px;
+  }
+  .title-newproduct {
+    font-size: 18px;
+  }
+  .text-newproduct {
+    font-size: 13px;
+  }
+  .paragraph-newproduct {
+    font-size: 14px;
+  }
+  .text-price-newproduct-prev {
+    font-size: 18px;
+  }
+  .text-price-newproduct-disc {
+    font-size: 18px;
+  }
+  .buy-newproduct {
+    font-size: 14px;
+  }
+  .title-review {
+    font-size: 18px;
+  }
+  .subtitle-review {
+    font-size: 14px;
+  }
+  .subtitle-partners {
+    font-size: 14px;
+  }
+  .text-review {
+    font-size: 10px;
+  }
+  .customer-name {
+    font-size: 14px;
+  }
+  .customer-job.active,
+  .customer-job {
+    font-size: 9px;
+  }
+  .photo-profile-customer {
+    width: 36px;
+    height: 36px;
+  }
+  .title-partners {
+    font-size: 18px;
+  }
+
+  .hugo-boss {
+    width: 76px; /* 90px - 14px */
+  }
+
+  .dior {
+    width: 96px; /* 110px - 14px */
+  }
+
+  .gucci {
+    width: 40px; /* 54px - 14px */
+  }
+
+  .chanel {
+    width: 56px; /* 70px - 14px */
+  }
+
+  .ysl {
+    width: 36px; /* 50px - 14px */
+  }
+
+  .zara {
+    width: 66px; /* 80px - 14px */
+  }
+
+  .creed {
+    width: 76px; /* 90px - 14px */
+  }
+
+  .tom {
+    width: 96px; /* 110px - 14px */
+  }
+
+  .byredo {
+    width: 66px; /* 80px - 14px */
+  }
+
+  .paris {
+    width: 36px; /* 50px - 14px */
+  }
+
+  .brands-section-1 {
+    width: 100%;
+    height: auto;
+  }
+
+  .brand-name-footer {
+    font-size: 24px;
+  }
+  .desc-brand-name {
+    font-size: 11px;
+  }
+  .title-list-nav {
+    font-size: 16px;
+  }
+  .item-list-footer {
+    font-size: 12px;
+  }
+  .btn-social-media {
+    width: 32px;
+    height: 32px;
+    font-size: 14px;
+  }
+  .copyright {
+    font-size: 9px;
+  }
+  .image-newproduct {
+    width: 300px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  .navbar-brand {
+    font-size: 24px;
+  }
+  .nav-navbar {
+    font-size: 14px;
+  }
+  .cart-btn {
+    font-size: 14px;
+  }
+  .heading-banner-1 {
+    font-size: 38px;
+  }
+  .text-banner-1 {
+    font-size: 12px;
+  }
+  .shop-btn {
+    font-size: 12px;
+  }
+  .image-banner-1 {
+    width: 280px;
+  }
+  .heading-feature {
+    font-size: 18px;
+  }
+  .text-feature {
+    font-size: 12px;
+  }
+  .section-1,
+  .section-2,
+  .section-3,
+  .section-4,
+  .section-5,
+  .section-6 {
+    padding: 64px 54px;
+  }
+  .heading-best-seller {
+    font-size: 18px;
+  }
+  .text-best-seller {
+    font-size: 14px;
+  }
+  .title-product {
+    font-size: 18px;
+  }
+  .text-price {
+    font-size: 14px;
+  }
+  .buy-product-btn {
+    font-size: 14px;
+  }
+  .title-newproduct {
+    font-size: 18px;
+  }
+  .text-newproduct {
+    font-size: 11px;
+  }
+  .paragraph-newproduct {
+    font-size: 12px;
+  }
+  .text-price-newproduct-prev {
+    font-size: 17px;
+  }
+  .text-price-newproduct-disc {
+    font-size: 17px;
+  }
+  .buy-newproduct {
+    font-size: 12px;
+  }
+  .title-review {
+    font-size: 18px;
+  }
+  .subtitle-review {
+    font-size: 14px;
+  }
+  .subtitle-partners {
+    font-size: 14px;
+  }
+  .text-review {
+    font-size: 10px;
+  }
+  .customer-name {
+    font-size: 12px;
+  }
+  .customer-job.active,
+  .customer-job {
+    font-size: 8px;
+  }
+  .photo-profile-customer {
+    width: 32px;
+    height: 32px;
+  }
+  .title-partners {
+    font-size: 18px;
+  }
+
+  .hugo-boss {
+    width: 72px; /* 90px - 18px */
+  }
+
+  .dior {
+    width: 92px; /* 110px - 18px */
+  }
+
+  .gucci {
+    width: 36px; /* 54px - 18px */
+  }
+
+  .chanel {
+    width: 52px; /* 70px - 18px */
+  }
+
+  .ysl {
+    width: 32px; /* 50px - 18px */
+  }
+
+  .zara {
+    width: 62px; /* 80px - 18px */
+  }
+
+  .creed {
+    width: 72px; /* 90px - 18px */
+  }
+
+  .tom {
+    width: 92px; /* 110px - 18px */
+  }
+
+  .byredo {
+    width: 62px; /* 80px - 18px */
+  }
+
+  .paris {
+    width: 32px; /* 50px - 18px */
+  }
+
+  .brands-section-1 {
+    width: 100%;
+    height: auto;
+  }
+
+
+  .brand-name-footer {
+    font-size: 24px;
+  }
+  .desc-brand-name {
+    font-size: 11px;
+  }
+  .title-list-nav {
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  .item-list-footer {
+    font-size: 12px;
+  }
+  .btn-social-media {
+    width: 32px;
+    height: 32px;
+    font-size: 14px;
+  }
+  .copyright {
+    font-size: 9px;
+  }
+  .image-newproduct {
+    width: 280px;
+  }
+}
+
+@media (max-width: 575px) {
+  .navbar-brand {
+    font-size: 24px;
+  }
+  .nav-navbar {
+    font-size: 14px;
+  }
+  .cart-btn {
+    font-size: 14px;
+  }
+  .heading-banner-1 {
+    font-size: 38px;
+  }
+  .text-banner-1 {
+    font-size: 12px;
+  }
+  .shop-btn {
+    font-size: 12px;
+  }
+  .image-banner-1 {
+    width: 280px;
+  }
+  .heading-feature {
+    font-size: 18px;
+  }
+  .text-feature {
+    font-size: 12px;
+  }
+  .section-1,
+  .section-2,
+  .section-3,
+  .section-4,
+  .section-5,
+  .section-6 {
+    padding: 52px 42px;
+  }
+  .heading-best-seller {
+    font-size: 18px;
+  }
+  .text-best-seller {
+    font-size: 14px;
+  }
+  .title-product {
+    font-size: 18px;
+  }
+  .text-price {
+    font-size: 14px;
+  }
+  .buy-product-btn {
+    font-size: 14px;
+  }
+  .title-newproduct {
+    font-size: 18px;
+  }
+  .text-newproduct {
+    font-size: 11px;
+  }
+  .paragraph-newproduct {
+    font-size: 12px;
+  }
+  .text-price-newproduct-prev {
+    font-size: 17px;
+  }
+  .text-price-newproduct-disc {
+    font-size: 17px;
+  }
+  .buy-newproduct {
+    font-size: 12px;
+  }
+  .title-review {
+    font-size: 18px;
+  }
+  .subtitle-review {
+    font-size: 14px;
+  }
+  .subtitle-partners {
+    font-size: 14px;
+  }
+  .text-review {
+    font-size: 10px;
+  }
+  .customer-name {
+    font-size: 12px;
+  }
+  .customer-job.active,
+  .customer-job {
+    font-size: 8px;
+  }
+  .photo-profile-customer {
+    width: 32px;
+    height: 32px;
+  }
+  .title-partners {
+    font-size: 18px;
+  }
+
+  .hugo-boss {
+    width: 38px; 
+  }
+
+  .dior {
+    width: 64px; 
+  }
+
+  .gucci {
+    width: 20px; 
+  }
+
+  .chanel {
+    width: 28px; 
+  }
+
+  .ysl {
+    width: 24px; 
+  }
+
+  .zara {
+    width: 36px; 
+  }
+
+  .creed {
+    width: 46px; 
+  }
+
+  .tom {
+    width: 66px; 
+  }
+
+  .byredo {
+    width: 40px; 
+  }
+
+  .paris {
+    width: 26px; 
+  }
+
+  .brands-section-1 {
+    width: 100%;
+    height: auto;
+  }
+
+  .brand-name-footer {
+    font-size: 24px;
+  }
+  .desc-brand-name {
+    font-size: 11px;
+  }
+  .title-list-nav {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+  .item-list-footer {
+    font-size: 12px;
+  }
+  .btn-social-media {
+    width: 32px;
+    height: 32px;
+    font-size: 14px;
+  }
+  .copyright {
+    font-size: 9px;
+  }
+  .image-newproduct {
+    margin-bottom: 20px;
+    width: 280px;
+  }
+}
