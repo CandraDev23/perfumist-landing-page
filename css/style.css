@@ -21,6 +21,7 @@
 }
 
 body {
+    scroll-behavior: smooth;
     margin: 0;
     padding: 0;
     font-family: "Noto Sans", sans-serif;
@@ -53,16 +54,18 @@ body {
 .navbar-nav {
     display: flex;
     justify-content: space-between;
-    width: 580px;
+    width: 640px;
 }
 
 .cart-btn {
     background-color: #323232;
     color: #fff;
-    padding: 6px 15px;
+    padding: 6px 24px;
     border-radius: 36px;
     border: none;
     outline: none;
+    transition: all 0.3s ease-in-out;
+    margin-left: 24px;
 }
 
 .cart-btn:hover {
@@ -81,12 +84,26 @@ body {
     padding: 10px 30px;
     border-radius: 36px;
     border: none;
-    outline: none
+    outline: none;
+    transition: all 0.3s ease-in-out;
 }
 .shop-btn:hover {
     background-color: transparent;
     outline: #323232 solid 1px !important;
     color: #323232;
+}
+
+.shop-btn i {
+    margin-right: 8px;
+}
+
+.bestseller-item > img{
+  transition: all 0.3s ease-in-out;
+  will-change: all;
+}
+
+.bestseller-item > img:hover {
+    transform: translateY(-8px);
 }
 
 .image-banner-1 {
@@ -136,6 +153,7 @@ body {
     color: #fff;
     outline: none;
     border: none;
+    transition: all 0.3s ease-in-out;
 }
 .buy-newproduct:hover {
     background-color: transparent;
@@ -233,6 +251,7 @@ body {
     border-radius: 8px;
     border: none;
     color: white;
+    transition: all 0.3s ease-in-out;
 }
 .btn-social-media:hover {
     background-color: transparent;
